@@ -5,7 +5,7 @@ You'll need [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/do
 
 ## How to use, for now
 
-1. Create a text file called "example.txt" and paste your links, onr per line. For example:
+1. Create a text file called "example.txt" and paste your links, one per line. For example:
 ```
 https://www.instagram.com/p/CFwXdGMDnZh/
 
