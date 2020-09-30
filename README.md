@@ -1,6 +1,6 @@
 # instram-video-multi-downloader
 
-## Prerequisits
+## Prerequisites
 You'll need [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
 ## How to use, for now
