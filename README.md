@@ -12,9 +12,9 @@ https://www.instagram.com/p/CFwXdGMDnZh/
 https://www.instagram.com/p/CFP6KfslmNR/
 ```
 
-Make sure the text file is in the same directory with [downloader.py](https://github.com/nitaicaro/instagram-video-multi-downloader/blob/master/downloader.py)
+Make sure the text file is in the same directory with [downloader.py](https://github.com/nitaicaro/instagram-video-multi-downloader/blob/master/downloader.py).
 
-2. CD to the project directory and run 
+2. cd to the project directory and run 
 >py downloader.py
 
-The script will create a folder with all the downloaded videos.
+The script will create a folder and download all the videos to it.
