@@ -1,7 +1,8 @@
 # instagram-video-multi-downloader
 
 ## Prerequisites
-You'll need [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+You'll need [python3](https://www.python.org/downloads/)
+and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
 ## How to use, for now
 
